@@ -1,0 +1,26 @@
+# Starting compiling UnityEngine.TestRunner.dll
+/home/gerard/Unity/Hub/Editor/2020.2.4f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-6f72b3c62b5fb12fd9667d990286edab
+# Starting compiling UnityEngine.UI.dll
+/home/gerard/Unity/Hub/Editor/2020.2.4f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-a1cef6f002e34f22da3513003a4a7e94
+# Starting compiling Unity.RenderPipelines.Universal.Shaders.dll
+/home/gerard/Unity/Hub/Editor/2020.2.4f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-76b6c19b2d47956f0b872871946a8e13
+# Starting compiling Unity.Timeline.dll
+/home/gerard/Unity/Hub/Editor/2020.2.4f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-044b5fb6802a736568310725fed2ed62
+# Starting compiling Unity.TextMeshPro.dll
+/home/gerard/Unity/Hub/Editor/2020.2.4f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-0cacf40e323138b06b9d9b9dbf62fde0
+# Starting compiling Unity.InputSystem.dll
+/home/gerard/Unity/Hub/Editor/2020.2.4f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-a24f8509907f1538cbcf4349ff8fb236
+# Starting compiling Unity.RenderPipelines.Core.ShaderLibrary.dll
+/home/gerard/Unity/Hub/Editor/2020.2.4f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-419a5843239f0683e95348b01d8d4573
+# Starting compiling Unity.Mathematics.dll
+/home/gerard/Unity/Hub/Editor/2020.2.4f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-62a108e2dafd6111496321b37f3f11aa
+# Starting compiling Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll
+/home/gerard/Unity/Hub/Editor/2020.2.4f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-9bd9e648e21d2232881ea298155318ca
+# Starting compiling Unity.RenderPipelines.Core.Runtime.dll
+/home/gerard/Unity/Hub/Editor/2020.2.4f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-d26f2fc5c37fc6968bf7697b66ff8121
+# Starting compiling Unity.RenderPipeline.Universal.ShaderLibrary.dll
+/home/gerard/Unity/Hub/Editor/2020.2.4f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-6902099df89fb47d1a13223dc6704160
+# Starting compiling Unity.RenderPipelines.Universal.Runtime.dll
+/home/gerard/Unity/Hub/Editor/2020.2.4f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-8a308de5d7e07d6dfb28ab413a8c332b
+# Starting compiling Assembly-CSharp.dll
+/home/gerard/Unity/Hub/Editor/2020.2.4f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-e08586c281f12a24986c9c28320739ea
